@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uzi609
+- 👋 Hi, I’m @uZi-dev1
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...
